@@ -2,4 +2,7 @@ this is one line
 added one line
 
 
-now this after commit
+//now this after commit
+
+commented earlier line
+will add to new branch
